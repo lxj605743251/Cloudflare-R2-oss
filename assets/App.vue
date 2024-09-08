@@ -457,7 +457,7 @@ export default {
           window.history.pushState(null, "", url.toString());
         }
         document.title = `${
-          this.cwd.replace(/.*\/(?!$)|\//g, "") || ""
+          this.cwd.replace(/.*\/(?!$)|\//g, "") || "/"
         } 阳光下聆听技术中心- 文件库`;
       },
       immediate: true,
