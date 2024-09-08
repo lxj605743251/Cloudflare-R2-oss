@@ -458,7 +458,7 @@ export default {
         }
         document.title = `${
           this.cwd.replace(/.*\/(?!$)|\//g, "") || "/"
-        } - 文件库`;
+        } 阳光下聆听技术中心- 文件库`;
       },
       immediate: true,
     },
