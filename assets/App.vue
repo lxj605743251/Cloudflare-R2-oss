@@ -192,16 +192,7 @@
     </Dialog>
   </div>
 </template>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8982329192068445"
-     crossorigin="anonymous"></script>
-<!-- 970*90横条广告 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:970px;height:90px"
-     data-ad-client="ca-pub-8982329192068445"
-     data-ad-slot="5338307926"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 <script>
 import {
   generateThumbnail,
